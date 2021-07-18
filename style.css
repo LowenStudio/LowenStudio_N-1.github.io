@@ -1,0 +1,157 @@
+#body {
+    background-color: #f5f5f5;
+}
+
+#grmrhs {
+    /* font setting */
+        
+    font-family: Sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    color: #000000;
+    /* font setting */
+
+    /* font position */
+    position: fixed;
+    width: 442px;
+    height: 70px;
+    left: 25vw;
+    top: 10vh;
+    z-index: 1;
+    /* font position */
+}
+
+#img {
+    width: 60px;
+    position: fixed;
+    left: 20vw;
+    top: 11vh;
+    z-index: 1;
+}
+
+#index {
+    position: absolute;
+    border-radius: 25px;
+    width: 300px;
+    height: 400px;
+    z-index: 1;
+    background-color: #ffffff;
+    top: 35vh;
+    box-shadow: 2px 4px 15px grey;
+}
+
+#preview {
+    width: 250px;
+    font-family: sans-serif;
+    color: #000000;
+    font-size: 13px;
+    position: absolute;
+    top: 125px;
+    left: 2.5vw;
+}
+
+.empty {
+    position: absolute;
+    border-radius: 25px;
+    width: 200px;
+    height: 400px;
+    z-index: 1;
+    top: 400px;
+    left: 4000px;
+}
+
+.cardnews_1 {
+    left: 400px;
+}
+.cardnews_2 {
+    left: 750px
+}
+.cardnews_3 {
+    left: 1100px;
+}
+.cardnews_4 {
+    left: 1450px;
+}
+.cardnews_5 {
+    left: 1800px;
+}
+.cardnews_6 {
+    left: 2150px;
+}
+.cardnews_7 {
+    left: 2500px;
+
+}
+.cardnews_8 {
+    left: 2850px;
+}
+.cardnews_9 {
+    left: 3200px;
+}
+.cardnews_0 {
+    left: 3550px;
+}
+
+#photo {
+    width: 55px;
+    height: 55px;
+    border-radius: 50px;
+    position: absolute;
+    background-color: #c4c4c4;
+    z-index: 2;
+    top: 50px;
+    left: 35px;
+}
+
+#name {
+    font-size: 28px;
+    font-family: sans-serif;
+    position:absolute;
+    color: #000000;
+    top: 25px;
+    left: 110px;
+}
+
+#code {
+    font-size: 15px;
+    font-family: sans-serif;
+    color: #000000;
+    position: absolute;
+    top: 65px;
+    left: 113px;
+}
+
+#make {
+    font-size: 28px;
+    font-family: sans-serif;
+    position:absolute;
+    color: #000000;
+    top: 25px;
+    left: 35px;
+}
+
+#me {
+    font-size: 18px;
+    font-family: sans-serif;
+    color: #000000;
+    position: absolute;
+    top: 70px;
+    left: 35px;
+}
+
+#copyright {
+    /* font setting */
+    font-family: Sans-serif;
+    font-style: normal;
+    font-size: 13px;
+    color: #000000;
+    /* font setting */
+
+    /* font position */
+    position: fixed;
+    text-align: center;
+    left: 42vw;
+    top: 94vh;
+    /* font position */
+}
