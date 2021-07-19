@@ -37,7 +37,7 @@ body {
     height: 400px;
     z-index: 1;
     background-color: #ffffff;
-    top: 33vh;
+    top: 30vh;
     box-shadow: 2px 4px 15px grey;
 }
 
@@ -57,7 +57,7 @@ body {
     width: 100px;
     height: 400px;
     z-index: 1;
-    top: 400px;
+    top: 30vh;
     left: 3550px;
 }
 
@@ -152,6 +152,6 @@ body {
     position: fixed;
     text-align: center;
     left: 22vw;
-    top: 90vh;
+    top: 85vh;
     /* font position */
 }
