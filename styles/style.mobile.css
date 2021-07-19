@@ -144,14 +144,14 @@ body {
     /* font setting */
     font-family: Sans-serif;
     font-style: normal;
-    font-size: 13px;
+    font-size: 10px;
     color: #000000;
     /* font setting */
 
     /* font position */
     position: fixed;
     text-align: center;
-    left: 22vw;
+    left: 20vw;
     top: 80vh;
     /* font position */
 }
