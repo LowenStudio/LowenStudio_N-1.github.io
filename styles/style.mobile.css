@@ -54,11 +54,11 @@ body {
 .empty {
     position: absolute;
     border-radius: 25px;
-    width: 200px;
+    width: 100px;
     height: 400px;
     z-index: 1;
     top: 400px;
-    left: 3500px;
+    left: 3550px;
 }
 
 .cardnews_1 {
